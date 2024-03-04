@@ -8,8 +8,9 @@ void main(){
   }
   if(Email!= 'azzamhussain70@gmail.com '&& password!=1234){
     print("login unsuccessfull");
-  }else{
-    print("Login successfull");
   }
+  // else{
+  //   print("Login successfull");
+  // }
 
 }
