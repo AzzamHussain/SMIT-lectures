@@ -10,6 +10,6 @@ String generateRandomPassword(int length) {
 
 void main() {
   // Generate a random password of length 12
-  final password = generateRandomPassword(12);
-  print('Random Password: $password');
+  final password = generateRandomPassword(18);
+  print('Random Password is: $password');
 }
